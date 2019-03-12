@@ -1,0 +1,135 @@
+[33mcommit 0e56564b65ba2cf5a94c0d7935e4dc78bd3f1f78[m
+Author: prabha <dbapraba@gmail.com>
+Date:   Tue Mar 12 21:58:50 2019 +0530
+
+    check
+
+[33mcommit 073add045375e0640f6904a05d3f93c28e76f5b6[m
+Author: prabha <dbapraba@gmail.com>
+Date:   Tue Mar 12 21:14:22 2019 +0530
+
+    skipping staging
+
+[33mcommit d886332dd5e71567db59e401d4a70ed01e4a95a7[m
+Author: prabha <dbapraba@gmail.com>
+Date:   Tue Mar 12 21:11:02 2019 +0530
+
+    added lines
+
+[33mcommit a682984425ce97928641a7231a6dae046acd7919[m
+Merge: 0e785c3 078d3a2
+Author: prabha <dbapraba@gmail.com>
+Date:   Tue Mar 12 19:43:53 2019 +0530
+
+    Merge branch 'master' of https://github.com/dbapraba/practise
+
+[33mcommit 0e785c3e2dfd6ea6a7f1948cc34165c2a7cd3592[m
+Author: prabha <dbapraba@gmail.com>
+Date:   Tue Mar 12 19:40:28 2019 +0530
+
+    removed line in payment.java
+
+[33mcommit 078d3a2276bac4b0747a2bdbb2570d1ab8feca54[m
+Author: dbapraba <48283081+dbapraba@users.noreply.github.com>
+Date:   Tue Mar 12 19:38:04 2019 +0530
+
+    removed lines in para of login.html
+
+[33mcommit 61eb63dbc8f8efd72fd1c5a9756e59f962309317[m
+Merge: 7e18b6c 4b77fc9
+Author: prabha <dbapraba@gmail.com>
+Date:   Tue Mar 12 19:15:04 2019 +0530
+
+    commit for checking conflict
+
+[33mcommit 7e18b6cf85ff4f2c0ceb3b027e5f21892e2982c2[m
+Author: prabha <dbapraba@gmail.com>
+Date:   Tue Mar 12 19:09:50 2019 +0530
+
+    Apple added in 4th line ot tesdt,html
+
+[33mcommit 4b77fc96e60bb8db8b0ee2aca28ca0868c6f23d3[m
+Author: dbapraba <48283081+dbapraba@users.noreply.github.com>
+Date:   Tue Mar 12 19:08:48 2019 +0530
+
+    android in 4th line of test.html
+
+[33mcommit a7dae3a23307a7308bf0edc090eb40428eb9d2a5[m
+Author: prabha <dbapraba@gmail.com>
+Date:   Tue Mar 12 19:06:16 2019 +0530
+
+    added world in 3rd line of test.html
+
+[33mcommit 13accf13e286ff88ce3f63c1d68d221eced2b5cf[m
+Author: dbapraba <48283081+dbapraba@users.noreply.github.com>
+Date:   Tue Mar 12 19:02:31 2019 +0530
+
+    add world in 3rd line of test.html
+
+[33mcommit 23031134f657d8d3ce076da625e609ecfd8e28d0[m
+Merge: 2b0cd7b 15dc7e7
+Author: prabha <dbapraba@gmail.com>
+Date:   Tue Mar 12 19:00:30 2019 +0530
+
+    commit
+
+[33mcommit 2b0cd7b7614a53ddee5c4016497a15000dff7df3[m
+Author: prabha <dbapraba@gmail.com>
+Date:   Tue Mar 12 18:53:04 2019 +0530
+
+    3rd line as WORLD in test.html
+
+[33mcommit 15dc7e7dc73e4ce5701c96c860e21bac50ab373f[m
+Author: dbapraba <48283081+dbapraba@users.noreply.github.com>
+Date:   Tue Mar 12 18:50:16 2019 +0530
+
+    changed 3rd line as welcome in check.html file
+
+[33mcommit ddc28a4aef78dfc467173354591008f57e7f7a01[m
+Author: dbapraba <48283081+dbapraba@users.noreply.github.com>
+Date:   Tue Mar 12 18:45:42 2019 +0530
+
+    modified test.html line 1,2
+
+[33mcommit 9fa82fe078acbd3de05fa3877651397d6e46e1b1[m
+Merge: 169e0ca 8493f91
+Author: prabha <dbapraba@gmail.com>
+Date:   Tue Mar 12 18:30:10 2019 +0530
+
+    deleted check.html in local repo to avoid conflict
+
+[33mcommit 169e0cae252804389ff9661c43c0e4bb8b062b47[m
+Author: prabha <dbapraba@gmail.com>
+Date:   Tue Mar 12 18:23:46 2019 +0530
+
+    commited content of 4th line in check.html
+
+[33mcommit 8493f914c237f63aa13af0971553af63eecf98e7[m
+Author: dbapraba <48283081+dbapraba@users.noreply.github.com>
+Date:   Tue Mar 12 18:21:10 2019 +0530
+
+    moddified content in check.html file
+
+[33mcommit da8e176138d381d9a6e931d85a8892e39db22d1b[m
+Author: prabha <dbapraba@gmail.com>
+Date:   Tue Mar 12 18:17:36 2019 +0530
+
+    commit with check.html
+
+[33mcommit c1ce870bd79d37da1a7951831961173d4947216f[m
+Author: prabha <dbapraba@gmail.com>
+Date:   Tue Mar 12 18:15:26 2019 +0530
+
+    commited login,payment files without adding check.html
+
+[33mcommit 8813785bd562e18b7324392f18c17555079ad5a7[m
+Author: prabha <dbapraba@gmail.com>
+Date:   Tue Mar 12 17:17:00 2019 +0530
+
+    commit have payment and test.html
+
+[33mcommit 71e67d72b2beb4d98b34a67be798262b6a489c51[m
+Author: prabha <dbapraba@gmail.com>
+Date:   Tue Mar 12 17:15:34 2019 +0530
+
+    commit only login.html
